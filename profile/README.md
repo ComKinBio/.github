@@ -35,8 +35,6 @@ Email: comkinbio@ept.ntnu.no
 
 Research group: [ComKin group at NTNU](https://www.ntnu.edu/comkin/)
 
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Publications -->
