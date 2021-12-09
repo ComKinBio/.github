@@ -17,14 +17,16 @@
 
 Welcome to the ComKinBio repos of the [ComKin Group](https://www.ntnu.edu/comkin/) (Combustion Kinetics Group)!
 
+
 <!-- PROJECT LOGO -->
+<!--
 <br />
 <div align="center">
   <a href="https://github.com/ComKinBio">
     <img src="images/NTNUEPTlogo.jpg" alt="NTNULogo" width="512" height="80">
   </a>
 </div>
-
+-->
 
 <!-- CONTACT -->
 ## Contact
